@@ -23,7 +23,7 @@
 
 
 
-> Hi, I am Aditya Sinha, M.tech Data Science student at Defense Institute of Advance technology,Pune. I have background in computer science. My current interest include Machine learning, Deep Learning, LLms and many more. I am current taking coursework in Reinforcement learning and NLP. My current goal is to explore the Machine Learning paradigm extensively and work both in core research and development. I am also trying to get into competitive programming and regular problem solving.
+> Hi, I am Aditya Sinha, M.tech Data Science student at Defense Institute of Advance technology, Pune. I have background in computer science. My current interest include Machine learning, Deep Learning, LLms and many more. I am current taking coursework in Reinforcement learning and NLP. My current goal is to explore the Machine Learning paradigm extensively and work both in core research and it's implementation in different fields. I am also trying to get into competitive programming and regular problem solving.
 
 <br/>
 
