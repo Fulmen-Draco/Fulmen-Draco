@@ -11,8 +11,8 @@
 
 <!-- 3. Education / repos / interest badges -->
 <img src="https://img.shields.io/badge/DIAT-Data_Science-blue?style=flat-square&logo=google-scholar&logoColor=white" alt="education"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_GITHUB_USERNAME&color=success" alt="repo count"/>
-<img src="https://img.shields.io/badge/Interests-Deep_Learning_%7C_Web_Dev-orange?style=flat-square&logo=todoist&logoColor=white" alt="interests"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFulmen-Draco&color=success" alt="repo count"/>
+<img src="https://img.shields.io/badge/Interests-Deep_Learning_%7C_Reseracher-orange?style=flat-square&logo=todoist&logoColor=white" alt="interests"/>
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- 4. Placeholder: write about yourself and your interests -->
+
 
 > Hi, I am Aditya Sinha, M.tech Data Science student at Defense Institute of Advance technology,Pune.I have background in computer science. My current interest include Machine learning, Deep Learning, LLms and many more. I am current taking coursework in Reinforcement learning and NLP. My current goal is to explore the Machine Learning paradigm extensively and work both in core research and development. I am also trying to get into competitive programming and regular problem solving.
 
