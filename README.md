@@ -21,14 +21,8 @@
 ## 🙋‍♂️ About Me
 
 <!-- 4. Placeholder: write about yourself and your interests -->
-<!--
-  Suggested prompts to fill this in:
-  - What are you currently studying / working on?
-  - What problems or domains excite you?
-  - What are you learning right now?
-  - Fun fact or hobby outside of code
--->
-> _[Write 2–4 sentences here about who you are, what you're currently learning or building, and what excites you. Example: "I'm a Data Science student passionate about turning messy datasets into useful products. Outside of code, I..."]_
+
+> Hi, I am Aditya Sinha, M.tech Data Science student at Defense Institute of Advance technology,Pune.I have background in computer science. My current interest include Machine learning, Deep Learning, LLms and many more. I am current taking coursework in Reinforcement learning and NLP. My current goal is to explore the Machine Learning paradigm extensively and work both in core research and development. I am also trying to get into competitive programming and regular problem solving.
 
 <br/>
 
@@ -66,10 +60,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/Fulmen-Draco">
-    <img src="https://leetcard.jacoblin.cool/Fulmen-Draco?theme=dark&font=Baloo%202" />
+    <img src="https://leetcard.jacoblin.cool/Fulmen-Draco?theme=light&font=Baloo%202" />
   </a>
 </p>
-
+![Hackerrank badges](https://hackerrank-badges.vercel.app/sinha_adi513)
 <br/>
 
 <div align="center">
