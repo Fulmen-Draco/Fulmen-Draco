@@ -57,24 +57,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
 
-<!-- Optional: live GitHub stats, swap YOUR_GITHUB_USERNAME below -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fulmen-Draco&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fulmen-Draco&theme=tokyonight" alt="GitHub streak"/>
-</div>
 
-<br/>
 
 ## 🏆 Coding Profile
 
 
 <p align="center">
   <a href="https://leetcode.com/Fulmen-Draco">
-    <img src="https://leetcard.jacoblin.cool/Fulmen-Draco?theme=dark&font=Baloo%202&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/Fulmen-Draco?theme=dark&font=Baloo%202" />
   </a>
 </p>
 
