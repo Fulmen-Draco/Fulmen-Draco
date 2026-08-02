@@ -79,3 +79,19 @@
   &nbsp;&nbsp;
   <img src="8674f6dfe4d5e21418baa877aced3da4.webp.jpg" width="30%" alt="Description 3"/>
 </p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sinhaaditya513/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://pin.it/1RG23rane"> 
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/> 
+  </a> 
+  
+  <a href="https://www.discord.com/users/690591143951466507">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> 
+  </a> 
+  </p> <br/> 
+  <div align="center"> <sub>Thanks for stopping by! </sub> </div>
