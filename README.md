@@ -62,6 +62,8 @@
   <a href="https://leetcode.com/Fulmen-Draco">
     <img src="https://leetcard.jacoblin.cool/Fulmen-Draco?theme=light&font=Baloo%202" />
   </a>
+  <a href="https://hackerrank.com/profile/your_hackerrank_username/"><img src="https://hackerrank-badges.vercel.app/sinha_adi513" alt="HackerRank Badges">
+  </a>
 </p>
 ![Hackerrank badges](https://hackerrank-badges.vercel.app/sinha_adi513)
 <br/>
