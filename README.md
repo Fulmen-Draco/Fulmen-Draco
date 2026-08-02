@@ -2,12 +2,13 @@
 <div align="center">
 
 <!-- 1. Welcome heading -->
-<h1>👋 Welcome to my GitHub Profile</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=30&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Welcome"/>
+</p>
 
-
-<h2>
-  <font color="#FF3CAC">Hi, I'm Aditya Sinha</font>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=26&duration=3000&pause=1200&color=F472B6&center=true&vCenter=true&width=500&height=40&lines=Hi%2C+I'm+Aditya+Sinha" alt="Hi, I'm Aditya Sinha"/>
+</p>
 
 <!-- 3. Education / repos / interest badges -->
 <img src="https://img.shields.io/badge/DIAT-Data_Science-blue?style=flat-square&logo=google-scholar&logoColor=white" alt="education"/>
@@ -22,7 +23,7 @@
 
 
 
-> Hi, I am Aditya Sinha, M.tech Data Science student at Defense Institute of Advance technology,Pune.I have background in computer science. My current interest include Machine learning, Deep Learning, LLms and many more. I am current taking coursework in Reinforcement learning and NLP. My current goal is to explore the Machine Learning paradigm extensively and work both in core research and development. I am also trying to get into competitive programming and regular problem solving.
+> Hi, I am Aditya Sinha, M.tech Data Science student at Defense Institute of Advance technology,Pune. I have background in computer science. My current interest include Machine learning, Deep Learning, LLms and many more. I am current taking coursework in Reinforcement learning and NLP. My current goal is to explore the Machine Learning paradigm extensively and work both in core research and development. I am also trying to get into competitive programming and regular problem solving.
 
 <br/>
 
