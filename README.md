@@ -72,7 +72,7 @@
 
 ## My Philosophy
 <p align="center">
-  <img src="d1122aa1de7c5b48b08ebffe35aceb1e.webp.jpg" width="30%" alt="Description 1"/>
-  <img src="a40cb049421602a09e40dbba4c957599.jpg" width="30%" alt="Description 2"/>
-  <img src="8674f6dfe4d5e21418baa877aced3da4.webp.jpg" width="30%" alt="Description 3"/>
+  <img src="d1122aa1de7c5b48b08ebffe35aceb1e.webp.jpg" width="30%" style="border-radius: 8px; margin: 0 5px;" alt="Description 1"/>
+  <img src="a40cb049421602a09e40dbba4c957599.jpg" width="30%" style="border-radius: 8px; margin: 0 5px;" alt="Description 2"/>
+  <img src="8674f6dfe4d5e21418baa877aced3da4.webp.jpg" width="30%" style="border-radius: 8px; margin: 0 5px;" alt="Description 3"/>
 </p>
