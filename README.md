@@ -4,7 +4,7 @@
 <!-- 1. Welcome heading -->
 <h1>👋 Welcome to my GitHub Profile</h1>
 
-<!-- 2. Bright intro line -->
+
 <h2>
   <font color="#FF3CAC">Hi, I'm Aditya Sinha</font>
 </h2>
@@ -52,7 +52,7 @@
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
+</div>
 
 
 ## Coding Profile
@@ -65,9 +65,14 @@
   <a href="https://hackerrank.com/profile/your_hackerrank_username/"><img src="https://hackerrank-badges.vercel.app/sinha_adi513" alt="HackerRank Badges">
   </a>
 </p>
-![Hackerrank badges](https://hackerrank-badges.vercel.app/sinha_adi513)
 <br/>
 
 <div align="center">
-  <sub>Thanks for stopping by! </sub>
 </div>
+
+## My Philosophy
+<p align="center">
+  <img src="IMAGE_URL_1" width="30%" alt="Description 1"/>
+  <img src="IMAGE_URL_2" width="30%" alt="Description 2"/>
+  <img src="IMAGE_URL_3" width="30%" alt="Description 3"/>
+</p>
