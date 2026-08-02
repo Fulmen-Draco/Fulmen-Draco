@@ -11,7 +11,7 @@
 
 <!-- 3. Education / repos / interest badges -->
 <img src="https://img.shields.io/badge/DIAT-Data_Science-blue?style=flat-square&logo=google-scholar&logoColor=white" alt="education"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFulmen-Draco&color=success" alt="repo count"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFulmen-Draco&color=success" alt="repo count"/>
 <img src="https://img.shields.io/badge/Interests-Deep_Learning_%7C_Research-orange?style=flat-square&logo=todoist&logoColor=white" alt="interests"/>
 
 </div>
@@ -72,7 +72,9 @@
 
 ## My Philosophy
 <p align="center">
-  <img src="d1122aa1de7c5b48b08ebffe35aceb1e.webp.jpg" width="30%" style="border-radius: 8px; margin: 0 5px;" alt="Description 1"/>
-  <img src="a40cb049421602a09e40dbba4c957599.jpg" width="30%" style="border-radius: 8px; margin: 0 5px;" alt="Description 2"/>
-  <img src="8674f6dfe4d5e21418baa877aced3da4.webp.jpg" width="30%" style="border-radius: 8px; margin: 0 5px;" alt="Description 3"/>
+  <img src="d1122aa1de7c5b48b08ebffe35aceb1e.webp.jpg" width="30%" alt="Description 1"/>
+  &nbsp;&nbsp;
+  <img src="a40cb049421602a09e40dbba4c957599.jpg" width="30%" alt="Description 2"/>
+  &nbsp;&nbsp;
+  <img src="8674f6dfe4d5e21418baa877aced3da4.webp.jpg" width="30%" alt="Description 3"/>
 </p>
