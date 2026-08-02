@@ -12,13 +12,13 @@
 <!-- 3. Education / repos / interest badges -->
 <img src="https://img.shields.io/badge/DIAT-Data_Science-blue?style=flat-square&logo=google-scholar&logoColor=white" alt="education"/>
 <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFulmen-Draco&color=success" alt="repo count"/>
-<img src="https://img.shields.io/badge/Interests-Deep_Learning_%7C_Reseracher-orange?style=flat-square&logo=todoist&logoColor=white" alt="interests"/>
+<img src="https://img.shields.io/badge/Interests-Deep_Learning_%7C_Research-orange?style=flat-square&logo=todoist&logoColor=white" alt="interests"/>
 
 </div>
 
 <br/>
 
-## 🙋‍♂️ About Me
+## About Me
 
 
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
 
 **Languages**
@@ -55,7 +55,7 @@
 
 
 
-## 🏆 Coding Profile
+## Coding Profile
 
 
 <p align="center">
